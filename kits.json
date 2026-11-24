@@ -1,0 +1,43 @@
+{
+  "kits": [
+    {
+      "slug": "cerebro-em-uma-pagina",
+      "titulo": "Monte a primeira página do cérebro da sua empresa",
+      "sub": "O modelo, a entrevista com a IA e o teste sem e com.",
+      "arquivo": "kits/kit-cerebro-em-uma-pagina.md",
+      "itens": [
+        "O modelo de uma página para preencher",
+        "Um prompt para a IA entrevistar você",
+        "Três pedidos para o teste sem e com"
+      ],
+      "pilar": "O cérebro da empresa",
+      "ordem": 3
+    },
+    {
+      "slug": "caixa-13-semanas",
+      "titulo": "Leve a projeção de 13 semanas para a sua IA",
+      "sub": "Monte uma vez com o arquivo. Toda segunda, cole os relatórios.",
+      "arquivo": "kits/kit-caixa-13-semanas.md",
+      "itens": [
+        "Instruções fixas e as premissas da casa",
+        "O prompt da segunda e o de comparação",
+        "O que fazer quando a semana apertada aparecer"
+      ],
+      "pilar": "Decidir",
+      "ordem": 2
+    },
+    {
+      "slug": "fechamento-com-ia",
+      "titulo": "Leve a semana de fechamento para a sua IA",
+      "sub": "Um arquivo para colar na IA, com um prompt para cada dia.",
+      "arquivo": "kits/kit-fechamento-com-ia.md",
+      "itens": [
+        "Instruções fixas e a ficha da sua empresa",
+        "Cinco prompts, de segunda a sexta",
+        "O que conferir antes de usar cada resultado"
+      ],
+      "pilar": "Financeiro",
+      "ordem": 1
+    }
+  ]
+}
