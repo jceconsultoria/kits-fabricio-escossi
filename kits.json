@@ -1,6 +1,123 @@
 {
   "kits": [
     {
+      "slug": "do-prompt-ao-agente",
+      "titulo": "Em que degrau está a sua empresa?",
+      "sub": "Um diagnóstico de 10 perguntas e o que fazer em cada degrau.",
+      "arquivo": "kits/kit-do-prompt-ao-agente.md",
+      "itens": [
+        "Dez perguntas de sim ou não",
+        "Como ler o resultado, degrau a degrau",
+        "O próximo passo e um prompt para cada degrau"
+      ],
+      "pilar": "O cérebro da empresa",
+      "ordem": 12
+    },
+    {
+      "slug": "ia-por-cargo",
+      "titulo": "Três prompts para cada cargo do financeiro",
+      "sub": "Controller, tesoureiro, contador e analista: o que pedir e o que conferir.",
+      "arquivo": "kits/kit-ia-por-cargo.md",
+      "itens": [
+        "Instruções fixas e a ficha do seu cargo",
+        "Doze prompts, três para cada cargo",
+        "O que conferir e o que continua com você"
+      ],
+      "pilar": "Operação",
+      "ordem": 11
+    },
+    {
+      "slug": "regras-ia-com-dados",
+      "titulo": "Leve as 5 regras para a sua empresa",
+      "sub": "A política de uma página, o checklist e o prompt que revisa a planilha.",
+      "arquivo": "kits/kit-regras-ia-com-dados.md",
+      "itens": [
+        "Política de uso de IA em uma página, para adaptar",
+        "Checklist antes de colar qualquer dado",
+        "Prompt que aponta dado sensível antes do envio"
+      ],
+      "pilar": "Controle",
+      "ordem": 10
+    },
+    {
+      "slug": "equilibrio-da-safra",
+      "titulo": "Leve o equilíbrio da safra para a sua IA",
+      "sub": "Do custo por hectare aos cenários de preço e produtividade.",
+      "arquivo": "kits/kit-equilibrio-da-safra.md",
+      "itens": [
+        "A ficha da safra para preencher",
+        "Os prompts do equilíbrio e dos cenários",
+        "O que conferir antes de vender ou travar preço"
+      ],
+      "pilar": "Decidir",
+      "ordem": 9
+    },
+    {
+      "slug": "quatro-blocos-do-cerebro",
+      "titulo": "Monte os 4 blocos do cérebro com a sua IA",
+      "sub": "Um roteiro de entrevista para cada bloco, com o modelo para preencher.",
+      "arquivo": "kits/kit-quatro-blocos-do-cerebro.md",
+      "itens": [
+        "O modelo dos quatro blocos",
+        "Quatro roteiros para a IA entrevistar você",
+        "O teste final e a rotina de revisão"
+      ],
+      "pilar": "O cérebro da empresa",
+      "ordem": 8
+    },
+    {
+      "slug": "indicadores-do-socio",
+      "titulo": "Leve os 12 indicadores para a sua IA",
+      "sub": "As fórmulas e um prompt que calcula e explica a partir do balancete.",
+      "arquivo": "kits/kit-indicadores-do-socio.md",
+      "itens": [
+        "As 12 fórmulas, com a conta do balancete",
+        "Um prompt que calcula e explica os 12",
+        "O que conferir antes de levar à reunião"
+      ],
+      "pilar": "Decidir",
+      "ordem": 7
+    },
+    {
+      "slug": "mensagens-do-financeiro",
+      "titulo": "Leve os 10 prompts para a sua IA",
+      "sub": "O tom da casa uma vez só e um prompt pronto para cada mensagem.",
+      "arquivo": "kits/kit-mensagens-do-financeiro.md",
+      "itens": [
+        "O tom da casa para a IA seguir",
+        "Dez prompts, cada um com o que conferir",
+        "A regra de ouro: nunca enviar sem ler"
+      ],
+      "pilar": "Operação",
+      "ordem": 6
+    },
+    {
+      "slug": "cobranca-com-ia",
+      "titulo": "Leve a rotina de cobrança para a sua IA",
+      "sub": "A carteira em ordem, a fila da semana e as mensagens no tom da casa.",
+      "arquivo": "kits/kit-cobranca-com-ia.md",
+      "itens": [
+        "Instruções fixas e a política de cobrança",
+        "Prompts da fila, do hábito real e das mensagens",
+        "A rotina de segunda e o controle das promessas"
+      ],
+      "pilar": "Financeiro",
+      "ordem": 5
+    },
+    {
+      "slug": "comentario-do-resultado",
+      "titulo": "Leve as 3 conferências para a sua IA",
+      "sub": "Um prompt para cada conferência e o comentário aos sócios só no fim.",
+      "arquivo": "kits/kit-comentario-do-resultado.md",
+      "itens": [
+        "Instruções fixas e a ficha da sua empresa",
+        "Um prompt para cada conferência",
+        "O comentário aos sócios e o que conferir"
+      ],
+      "pilar": "Controle",
+      "ordem": 4
+    },
+    {
       "slug": "cerebro-em-uma-pagina",
       "titulo": "Monte a primeira página do cérebro da sua empresa",
       "sub": "O modelo, a entrevista com a IA e o teste sem e com.",
